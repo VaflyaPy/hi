@@ -1,4 +1,4 @@
-#Импорты
+#импорты
 from pygame import *
 from random import randint
 import pygame
